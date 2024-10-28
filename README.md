@@ -49,4 +49,4 @@ I also struggled with sizing the image on this preview. The solution for this wa
 ## Author
 
 - GitHub - [Mina Hopgood](https://github.com/minahopgood)
-- Frontend Mentor - [@minahop](https://www.frontendmentor.io/profile/minahopgo
+- Frontend Mentor - [@minahop](https://www.frontendmentor.io/profile/minahopgood)
