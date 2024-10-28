@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/minahopgood/blop-preview-card)
-- Live Site URL: [Finished worl](https://minahopgood.github.io/blop-preview-card/)
+- Live Site URL: [Finished work](https://minahopgood.github.io/blop-preview-card/)
 
 ## My process
 
